@@ -17,5 +17,4 @@ sh Install.sh
 
 ## Credits
 
-Inspired by: [Xcode One Dark](https://github.com/bojan/xcode-one-dark) <br>
 Font: [Fira Code](https://github.com/tonsky/FiraCode)
